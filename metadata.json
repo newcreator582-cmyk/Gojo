@@ -1,0 +1,6 @@
+{
+  "name": "Gojo Battlegrounds",
+  "description": "3D third-person battle royale shooter set in Peak and Factory featuring Kelly and the M1887 shotgun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
